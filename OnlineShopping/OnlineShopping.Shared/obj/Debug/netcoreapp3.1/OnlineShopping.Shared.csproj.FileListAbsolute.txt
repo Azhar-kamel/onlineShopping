@@ -1,0 +1,14 @@
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\OnlineShopping.Shared.AssemblyInfoInputs.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\OnlineShopping.Shared.AssemblyInfo.cs
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\OnlineShopping.Shared.RazorTargetAssemblyInfo.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.Shared.StaticWebAssets.Manifest.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.Shared.StaticWebAssets.xml
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\OnlineShopping.Shared.csprojAssemblyReference.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.deps.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.runtimeconfig.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.runtimeconfig.dev.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\OnlineShopping.Shared.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Shared\obj\Debug\netcoreapp3.1\OnlineShopping.Shared.pdb

@@ -1,0 +1,15 @@
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.csprojAssemblyReference.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.AssemblyInfoInputs.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.AssemblyInfo.cs
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.deps.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.RazorTargetAssemblyInfo.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.csproj.CopyComplete
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.Entities.StaticWebAssets.Manifest.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.Entities.StaticWebAssets.xml
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Entities\obj\Debug\netcoreapp3.1\OnlineShopping.Entities.pdb

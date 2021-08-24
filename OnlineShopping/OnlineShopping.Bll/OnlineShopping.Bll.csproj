@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShopping.Data\OnlineShopping.Data.csproj" />
+    <ProjectReference Include="..\OnlineShopping.DTO\OnlineShopping.DTO.csproj" />
+    <ProjectReference Include="..\OnlineShopping.Shared\OnlineShopping.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

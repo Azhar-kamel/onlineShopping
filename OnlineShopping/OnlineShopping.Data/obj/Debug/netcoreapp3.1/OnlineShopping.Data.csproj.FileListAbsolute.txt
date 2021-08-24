@@ -1,0 +1,17 @@
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.csprojAssemblyReference.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.AssemblyInfoInputs.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.AssemblyInfo.cs
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Data.deps.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Data.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Data.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.RazorTargetAssemblyInfo.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.csproj.CopyComplete
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.Data.StaticWebAssets.Manifest.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.Data.StaticWebAssets.xml
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.pdb

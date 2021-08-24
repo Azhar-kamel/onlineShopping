@@ -1,0 +1,17 @@
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.csprojAssemblyReference.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.AssemblyInfoInputs.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.AssemblyInfo.cs
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.DTO.deps.json
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.DTO.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.DTO.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.Entities.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\bin\Debug\netcoreapp3.1\OnlineShopping.Shared.pdb
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.RazorTargetAssemblyInfo.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.csproj.CopyComplete
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.DTO.StaticWebAssets.Manifest.cache
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\staticwebassets\OnlineShopping.DTO.StaticWebAssets.xml
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.dll
+D:\Interview\OnlineShopping\OnlineShopping\OnlineShopping.DTO\obj\Debug\netcoreapp3.1\OnlineShopping.DTO.pdb
